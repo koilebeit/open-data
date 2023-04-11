@@ -1,10 +1,10 @@
 abstract: 'This is my awesome research software. It does many things.'
 authors:
-  - family-names: Doe
-    given-names: John
-    orcid: 'https://orcid.org/0000-0001-8888-9999'
+  - family-names: Görlich
+    given-names: Nico
+    orcid: 'https://orcid.org/0000-0003-3860-1488'
 cff-version: 1.2.0
-date-released: '2021-10-13'
+date-released: '2023-04-13'
 identifiers:
   - description: 'This is the collection of archived snapshots of all versions of My Research Software'
     type: doi

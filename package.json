@@ -1,8 +1,8 @@
 {
-	"name": "REPO_NAME",
-	"description": "SHORT_DESCRIPTION",
-	"author": "FULLNAME <[INSERT CONTACT METHOD]>",
-	"url": "https://github.com/USERNAME/REPO_NAME/issues",
+	"name": "open-data",
+	"description": "open-data repo",
+	"author": "Nico Görlich nico.goerlich@unibas.ch>",
+	"url": "https://github.com/koilebeit/open-data/issues",
 	"license": "AGPL-3.0",
 	"scripts": {
 		"check": "prettier --ignore-path .gitignore  --check . '!{CODE_OF_CONDUCT.md,LICENSE.md,_layouts/default.html,package-lock.json,pnpm-lock.yaml,yarn.lock}'",
